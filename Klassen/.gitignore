@@ -1,0 +1,10 @@
+# ignoriert die nachfolgenden Ordner und Dateien
+
+.vs
+
+Klassen/bin
+Klassen/obj
+
+
+Programm.cs/bin
+Programm.cs/obj
